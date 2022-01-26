@@ -1,0 +1,19 @@
+{
+    "numeroDaNota": "123.456",
+    "cnpjEmissor": "89.867.299/0001-90",
+    "listasDeProduto": [
+        {
+            "nome":"xbox",
+            "preco":2500
+        },
+    { 
+"nome":"fifa",
+"preco":400 
+    },
+    {
+    "nome":"joystick",
+    "preco":400
+    }
+],
+    "valorTotal": 3300
+}
